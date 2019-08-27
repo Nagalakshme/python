@@ -1,0 +1,5 @@
+name=input("\nEnter your name")
+age=int(input("\nEnter your age"))
+company=input("\nEnter your company")
+crush=input("\nEnter your crush")
+print("I am {0} My age is {1} I Placed in {2} and have crush{3}".format(name,age,company,crush))
